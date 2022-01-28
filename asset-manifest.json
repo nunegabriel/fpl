@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fpl/static/css/main.741ef8fd.css",
+    "main.js": "/fpl/static/js/main.f8cc5fcf.js",
+    "static/js/787.fc31a9e0.chunk.js": "/fpl/static/js/787.fc31a9e0.chunk.js",
+    "static/media/fplcover2.png": "/fpl/static/media/fplcover2.b4932ab7cc9a25e3a76a.png",
+    "static/media/ramsdale.jpg": "/fpl/static/media/ramsdale.cd686a49da48dc434d7a.jpg",
+    "static/media/fpl.png": "/fpl/static/media/fpl.9f01e4e62536054eb0e5.png",
+    "static/media/Odegaard.jpg": "/fpl/static/media/Odegaard.593826fdf47004ff304c.jpg",
+    "static/media/Kante.jpg": "/fpl/static/media/Kante.0cadd911a1edb4fca0fc.jpg",
+    "static/media/Rectangle.png": "/fpl/static/media/Rectangle.c67c8570aa0ba6a9f014.png",
+    "static/media/cancelo.jpg": "/fpl/static/media/cancelo.8877745913884fb36daa.jpg",
+    "static/media/Martinelli.jpg": "/fpl/static/media/Martinelli.b6ab560632025666ca05.jpg",
+    "static/media/salah2.jpg": "/fpl/static/media/salah2.45df9e065139b96d4516.jpg",
+    "index.html": "/fpl/index.html",
+    "main.741ef8fd.css.map": "/fpl/static/css/main.741ef8fd.css.map",
+    "main.f8cc5fcf.js.map": "/fpl/static/js/main.f8cc5fcf.js.map",
+    "787.fc31a9e0.chunk.js.map": "/fpl/static/js/787.fc31a9e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.741ef8fd.css",
+    "static/js/main.f8cc5fcf.js"
+  ]
+}
